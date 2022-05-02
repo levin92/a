@@ -209,14 +209,14 @@
 }
 
 .main__btn{
-    text-decoration: none;
+    text-decoration: none!important;
     padding: 10px 25px;
     font-size: 1rem;
-    position: relative;
+    position: sticky;
     margin: 12px;
     background: rgb(243, 239, 22);
     color: #fff;
-    border-radius: 30px;
-    transition: transform 1s ease-in;
-
+    border-radius: 20px;
+    transition: transform 2s ease-in;
+    cursor: pointer;
 }
