@@ -90,7 +90,7 @@
         height: 80px;
         z-index: 1;
         width: 100%;
-        max-width: 1920px;
+        max-width: 1300px;
         padding: 0;
     }
     .navbar__menu {
@@ -99,7 +99,7 @@
          margin: 0;
          width: 100%;
          position: absolute;
-         top: -1500px;
+         top: -1300px;
          opacity: 0;
          transition: all 0.5s ease;
          height: 50vh;
@@ -120,7 +120,7 @@
             padding-left: 25px;
         }
         
-        .navbar__toggle.bar {
+        .navbar__toggle .bar {
             width: 25px;
             height: 3px;
             margin: 5px auto;
@@ -183,7 +183,7 @@
     background-color: #131313;
     z-index: 1;
     width: 100%;
-    max-width: 1920px;
+    max-width: 1300px;
     padding: 0 50px;
 }
 
