@@ -223,12 +223,13 @@
 }
 
 .infos{
-    font-size: 1rem;
-    background-color: #ff8117;
-    background-image: linear-gradient(to top, #f7fc00 0%, #b1c407 100%);
-    background-size: 100%;
-    -webkit-background-clip: text;
-    -moz-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    -moz-text-fill-color: transparent;
+font-size: 14px;
+letter-spacing: 0px;
+word-spacing: 0.8px;
+color: #FF8117;
+font-weight: 400;
+text-decoration: rgb(68, 68, 68);
+font-style: normal;
+font-variant: normal;
+text-transform: none;
 }
