@@ -221,3 +221,13 @@
     cursor: pointer;
     text-decoration: none!important;
 }
+
+.infos{
+    font-size: 1rem;
+    position: static;
+    background-size: 100%;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-text-fill-color: transparent;
+}
