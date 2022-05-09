@@ -224,7 +224,8 @@
 
 .infos{
     font-size: 1rem;
-    position: static;
+    background-color: #ff8117;
+    background-image: linear-gradient(to top, #f7fc00 0%, #b1c407 100%);
     background-size: 100%;
     -webkit-background-clip: text;
     -moz-background-clip: text;
